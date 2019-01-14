@@ -34,7 +34,7 @@ return array
 }
 
 function destructivelyRemoveElementFromEndOfArray(array, element) {
-
+array.pop()
 }
 
 function removeElementFromEndOfArray(array, element) {
