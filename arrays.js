@@ -40,5 +40,5 @@ return array
 }
 
 function removeElementFromEndOfArray(array) {
-array.slice(0, array.length -1)
+array = array.slice(0, array.length -1)
 }
